@@ -25,7 +25,8 @@ A screenshot of the application is given below.
 
 ![Basic Image EditorApplication Screenshot](https://github.com/shyama95/basic-image-editor/blob/master/application-screenshot.png)
 
-A demo video of the application is available [here](https://drive.google.com/open?id=18prC7elV6siC_4wt78Md9Lqut46Hag8H).
+A demo video of the application is available [here](https://drive.google.com/open?id=18prC7elV6siC_4wt78Md9Lqut46Hag8H).  
+The complete report of the application is available [here](https://drive.google.com/open?id=1GwmJGeYGsuuTCjbiXZjWqqPP8mIHalDf).  
 ## References
 [1] Gonzalez, Rafael C., and Woods, Richard E. "Digital image processing. 3E" (2008).  
 [2] https://elementztechblog.wordpress.com/2015/04/14/getting-started-with-pycharm-and-qt-4-designer/  
