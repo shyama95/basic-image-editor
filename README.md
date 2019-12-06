@@ -28,6 +28,6 @@ A screenshot of the application is given below.
 A demo video of the application is available [here](https://drive.google.com/open?id=18prC7elV6siC_4wt78Md9Lqut46Hag8H).
 ## References
 [1] Gonzalez, Rafael C., and Woods, Richard E. "Digital image processing. 3E" (2008).  
-[2] https://elementztechblog.wordpress.com/2015/04/14/getting-started-with-pycharm-and-qt-4-designer/
-[3] http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html
-[4] https://docs.scipy.org/doc/numpy/reference/
+[2] https://elementztechblog.wordpress.com/2015/04/14/getting-started-with-pycharm-and-qt-4-designer/  
+[3] http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html  
+[4] https://docs.scipy.org/doc/numpy/reference/  
